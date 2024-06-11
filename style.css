@@ -1,0 +1,38 @@
+body {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 1);
+    
+}
+
+.box1 {
+    width: 435px;
+    height: 254px;
+    position: absolute;
+    z-index: 6;
+    top: 0;
+}
+.box2 {
+    width: 558px;
+    height: 254px;
+    padding-left: 370px;
+    position: absolute;
+    z-index: 5;
+    top: 0;
+}
+.box3 {
+    width: 421px;
+    height: 254px;
+    left: 859px;
+    position: absolute;
+    z-index: 6;
+    top: 0;
+}
+p {
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    line-height: 14.52px;
+    margin-left: 330px;
+    margin-top: 190px;
+    position: absolute;
+    z-index: 6;
+}
